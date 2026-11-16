@@ -1980,7 +1980,7 @@ dependencies = [
  "tar",
  "tempfile",
  "toml 1.2.1+spec-1.1.0",
- "ureq 3.5.1",
+ "ureq 3.5.2",
  "walkdir",
  "windows-sys 0.61.2",
  "zeroize",
@@ -3307,9 +3307,9 @@ dependencies = [
 
 [[package]]
 name = "ureq"
-version = "3.5.1"
+version = "3.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e7be76686bdf7198002062423ca0d8cf9b75a27c8e1de804513b97e97b555d9d"
+checksum = "3ac5cecf619ca81f66a96482db09687c9f7465af65f4300a8c30cca05bd5a59d"
 dependencies = [
  "base64 0.23.1",
  "flate2",
